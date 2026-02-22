@@ -30,4 +30,4 @@ The project includes experimental UI panels (Signup, Login) created while explor
 ![Main Menu](Screenshots/MainMenu.png)
 ![Gameplay](Screenshots/Gameplay1.png)
 ![Fail State](Screenshots/Gameplay2.png)
-![Game Over Menu](Screenshots/GameOvermenu.png)
+![Game Over Menu](Screenshots/GameOverMenu.png)
